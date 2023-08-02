@@ -1,0 +1,89 @@
+{
+  "basics": {
+    "name": "Dagim Tadele",
+    "label": "Researcher",
+    "image": "",
+    "email": "tadeled@ccf.org",
+    "phone": "(216) 502-9092",
+    "url": "https://dtadele.github.io/",
+    "summary": "Molecular Biologist/Geneticist by training and self-trained Data Analyst dedicated to provide groundbreaking insights into the mechanisms that drive cancer evolution and drug resistance utilizing game theory formalisim, ultimately paving the way for more effective treatments.",
+    "location": {
+      "address": "2111 E. 96th Str. NE6-259",
+      "postalCode": "OH 44106",
+      "city": "Cleveland",
+      "countryCode": "US",
+      "region": "Ohio"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Dagim26",
+        "url": "https://twitter.com/Dagim26"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Cleveland Clinic, Theory Division, USA,<br>Oslo University Hospital, Molecular Genetics, Norway",
+      "position": "Postdoctoral Researcher",
+      "url": "https://dtadele.github.io", 
+      "startDate": "2012-01-01",
+      "endDate": "Present",
+      "summary": "Aim 1: Creating a complete genotype space of 16 cell lines containing all possible combination of  4 driver genes in NSCLC<br>Aim 2: Measuring fitness in a range of doses against a panel of clinically approved drugs.",
+      "highlights": [
+        "Cancer evolution, Game theory, Drug resistance"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Oslo, Oslo, Norway",
+      "url": "https://www.uio.no/",
+      "area": "Cancer Genetics, Drug Screening, Molecular Biology",
+      "studyType": "PhD",
+      "startDate": "2013-09-01",
+      "endDate": "2020-05-24",
+      "score": "",
+      "courses": [
+        "Anti-Cancer Drug Development"
+      ]
+    }
+    {
+      "institution": "Oslo Metropolitan University, Oslo, Norway",
+      "url": "https://www.oslomet.no/en/",
+      "area": "Cancer Genetics, Drug Screening, Molecular Biology",
+      "studyType": "MSc",
+      "startDate": "2009-09-01",
+      "endDate": "2011-05-30",
+      "score": "",
+      "courses": [
+        "Breast Cancer, Drug Development"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Amharic, English, Norwegian",
+      "fluency": "Fluent, Fluent, Professional proficiency"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": []
+}

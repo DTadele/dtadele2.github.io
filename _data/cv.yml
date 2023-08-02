@@ -1,0 +1,92 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Dagim Tadele
+    - name: Date of Birth
+      value: 1980
+    - name: Languages
+      value: Amharic, English, Norwegian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Molecular Biology
+      institution: University of Oslo, Oslo, Norway
+      year: 2012 - 2019
+      description:
+        - Brief Synopsis of Research - My project focuses on discovery and development of a specific anti-cancer compound for the treatment of BCR-ABL positive leukemia. A novel drug discovery demands a rigorous screening design and utilization of diverse approaches for target identification. During my PhD I have established a co-culture based high-throughput drug screening where we identified a novel anti-cancer compound that is more potent than the current standard of care and in the process of further development.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: MSc, Biomedicine
+      institution: Oslo Metropolitian University, Oslo, Norway
+      year: 2009 - 2011
+      description:
+        - Thesis -  "PIK3CA Mutation analysis and drug response in Her2 positive breast cancer".
+        #- Description 2.
+    - title: MSc, Plant Biotechnology
+      institution: Norwegian University of Life Sciences, Aas, Norway
+      year: 2007 - 2009
+      description:
+        - Thesis -  "In vitro propagation of Jatropha curcas".
+        #- Description 2.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctroal Researcher
+      institution: Oslo University Hospital, Medical Genetics
+      year: 2021 - Present
+      #description:
+        #- Description 1.
+        #- Description 2.
+        #- title: Description 3.
+          #contents:
+            #- Sub-description 1.
+            #- Sub-description 2.
+    - title: Visiting Scholar
+      institution: Cleveland Clinic, Theory Division, Ohio, USA
+      year: 2020 - Present
+      description:
+        #- Description 1.
+        #- Description 2.
+
+#- title: Open Source Projects
+  #type: time_table
+  #contents:
+    #- title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      #year: 2015-now
+      #description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021 - 2024
+      items: 
+        - Project grant for ground-breaking research from Norwegian Research Council, Norway. 
+    - year: 2020 - 2021
+      items: 
+        - International mobility grant from Norwegian Research Council, Norway.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: . Cancer Drug Resistance
+      #items: 
+        #- Description 1.
+        #- Description 2.
+    - title: . Game Theory
+      #items:
+        #- Description 1.
+        #- Description 2.
+    - title: . Adaptive Therapy
+      #items:
+        #- Description 1.
+        #- Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Baking Bread, Brewing Beer, Cooking.
